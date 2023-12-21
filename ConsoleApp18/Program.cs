@@ -16,6 +16,7 @@ public static class Program
         
         LoadUsers();
         LoadEmployees();
+        CreateAdminUser();
         int userIndex;
 
         while (true)
